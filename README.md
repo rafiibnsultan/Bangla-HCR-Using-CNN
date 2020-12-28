@@ -8,5 +8,7 @@ The research utilized a publicly available dataset, CMATERdb 3.1.2 for its class
 Performance of the Model:
 
 Training dataset	(10800 Samples)	98.74%
+
 Validation dataset	(1200 Samples)	97.75%
+
 Test dataset	(3000 Samples)	98.03%
