@@ -2,7 +2,7 @@
 
 An Automated System for Recognizing Isolated Handwritten Bangla Characters using Deep Convolutional Network
 
-The research utilized a publicly available dataset, CMATERdb 3.1.2 for its classification purpose. A deep novel Convolutional Neural Network (CNN) of a total of 11 layers is proposed for classification task. This deep CNN model was trained to classify Bangla basic isolated characters of 50 classes (each class representing a character). This work has been ACCEPTED for Virtual Presentation 11th series of IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE 2021),
+The research utilized a publicly available dataset, CMATERdb 3.1.2 for its classification purpose. A deep novel Convolutional Neural Network (CNN) of a total of 11 layers is proposed for classification task. This deep CNN model was trained to classify Bangla basic isolated characters of 50 classes (each class representing a character). This work has been ACCEPTED for Virtual Presentation at 11th series of IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE 2021),
 
 
 Performance of the Model:
